@@ -4,7 +4,7 @@
   <MigrationAction>5</MigrationAction>
   <GenerateUndoPackage>Yes</GenerateUndoPackage>
   <ImportPackage>Yes</ImportPackage>
-  <PackageFile>D:\Test.mmp</PackageFile>
+  <PackageFile>D:\migrations\Test.mmp</PackageFile>
   <AddDependents>
   </AddDependents>
   <ContainerID>
