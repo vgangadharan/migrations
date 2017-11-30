@@ -3,4 +3,4 @@ git config --global user.email "vgangadharan@spscommerce.com"
 cd D:/migrations
 git add 'Test_Undo*.mmp'
 git commit -m "undo added"
-git push origin https://github.com/vgangadharan/migrations.git
+git push  https://github.com/vgangadharan/migrations.git master
