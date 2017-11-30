@@ -4,4 +4,4 @@ cd D:/migrations
 git config --global credential.helper wincred
 git add 'Test_Undo*'
 git commit -m "undo added"
-git push origin master
+git push https://vgangadharan:vgngithub087@gitHub.com/migrations.git master
