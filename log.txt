@@ -1,0 +1,13 @@
+1/12/18 3:33:15 PM EST Version 10.6.0 (Build 10.6.0034.0038)
+1/12/18 3:33:15 PM EST Connected:Administrator@MicroStrategy Analytics Modules
+1/12/18 3:33:15 PM EST Executing task(s)...
+1/12/18 3:33:15 PM EST Checking syntax...
+1/12/18 3:33:15 PM EST Syntax is correct.
+1/12/18 3:33:15 PM EST Syntax checking has been completed.
+1/12/18 3:33:15 PM EST Publish failed for Intelligent Cube 'CubeMigTest' in folder '\Public Objects\Reports\MigTest'.
+1/12/18 3:33:15 PM EST No results returned.
+1/12/18 3:33:15 PM EST Task(s) execution completed with errors.
+1/12/18 3:33:15 PM EST Execution Time: 00:00:00
+1/12/18 3:33:15 PM EST Successfully disconnected. (MSTR) MicroStrategy Analytics Modules: Administrator
+###################################################################
+
