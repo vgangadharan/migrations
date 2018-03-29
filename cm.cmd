@@ -1,1 +1,0 @@
-cmdmgr.exe -n "MicroStrategy Analytics Modules" -u Administrator -p power -f D:\migrations\script.txt -o D:\migrations\log.txt
