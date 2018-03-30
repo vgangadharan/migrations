@@ -1,1 +1,1 @@
-projectmerge -f%BranchName%.xml -sppower -dppower
+projectmerge -fColehaan.xml -sppower -dppower
