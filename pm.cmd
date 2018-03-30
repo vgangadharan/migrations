@@ -1,1 +1,1 @@
-projectmerge -fD:\migrations\Colehaan.xml -sppower -dppower
+projectmerge -fColehaan.xml -sppower -dppower
