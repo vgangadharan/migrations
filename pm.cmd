@@ -1,1 +1,1 @@
-projectmerge -fColehaan.xml -sppower -dppower
+projectmerge -f%1.xml -sppower -dppower
