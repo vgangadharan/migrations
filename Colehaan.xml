@@ -37,7 +37,7 @@
   </Rules>
   <Logs>
     <Log>
-      <File>c:\Temp\PrjMrg.Log</File>
+      <File>\\172.31.0.71\C$\migrations\Colehaan\Colehaan_Migration.Log</File>
       <LogLevel>All</LogLevel>
     </Log>
   </Logs>
