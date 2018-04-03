@@ -4,7 +4,7 @@
   <MigrationAction>5</MigrationAction>
   <GenerateUndoPackage>Yes</GenerateUndoPackage>
   <ImportPackage>Yes</ImportPackage>
-  <PackageFile>D:\migrations\Colehaan.mmp</PackageFile>
+  <PackageFile>\\172.31.0.71\C$\migrations\Colehaan</PackageFile>
   <AddDependents>
   </AddDependents>
   <ContainerID>
