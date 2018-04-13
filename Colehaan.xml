@@ -4,7 +4,7 @@
   <MigrationAction>5</MigrationAction>
   <GenerateUndoPackage>Yes</GenerateUndoPackage>
   <ImportPackage>Yes</ImportPackage>
-  <PackageFile>\\172.31.0.71\C$\migrations\Colehaan\Colehaan.mmp</PackageFile>
+  <PackageFile>Colehaan.mmp</PackageFile>
   <AddDependents>
   </AddDependents>
   <ContainerID>
@@ -33,11 +33,24 @@
       </CategoryLevel>
     </Operations>
     <Options>
+ <Option>
+        <ID>ACL</ID>
+        <UseExisting />
+      </Option>
+      <Option>
+        <ID>UpdateSchema</ID>
+        <SchemaUpdateNone />
+      </Option>
+<Option>
+        <ID>OMOnOffSettings</ID>
+        <SkipProjectMergeSourceLockingSkipProjectMergeDestConfigLocking/> 
+        <NewObjectACLInheritFromDestFolder />
+      </Option>
     </Options>
   </Rules>
   <Logs>
     <Log>
-      <File>\\172.31.0.71\C$\migrations\Colehaan\Colehaan_Migration.Log</File>
+      <File></File>
       <LogLevel>All</LogLevel>
     </Log>
   </Logs>
