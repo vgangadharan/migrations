@@ -25,10 +25,10 @@
           <Replace />
         </Application>
         <Configuration>
-          <KeepBoth />
+          <Replace />
         </Configuration>
         <Schema>
-          <KeepBoth />
+          <Replace />
         </Schema>
       </CategoryLevel>
     </Operations>
