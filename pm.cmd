@@ -1,1 +1,0 @@
-projectmerge -f%1.xml -sppower -dppower -sup
