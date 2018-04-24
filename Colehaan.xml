@@ -2,7 +2,7 @@
 <ProjectMerge>
   <Preview>No</Preview>
   <MigrationAction>5</MigrationAction>
-  <GenerateUndoPackage>No</GenerateUndoPackage>
+  <GenerateUndoPackage>Yes</GenerateUndoPackage>
   <ImportPackage>Yes</ImportPackage>
   <PackageFile>Colehaan.mmp</PackageFile>
   <AddDependents>
